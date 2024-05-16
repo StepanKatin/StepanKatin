@@ -2,6 +2,7 @@
 
 <h2 align="center"> Hi, I'm Stepan 	&#128405; </h2>
 <h3 align="center"> &#128104;&#8205;&#128300; Nuclear Physicist and Data Analyst &#128105;&#8205;&#128187;  </h3>
+
 <div>
 <h1 align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/>&nbsp;
