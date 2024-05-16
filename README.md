@@ -1,4 +1,4 @@
-![orig-2]((https://github.com/StepanKatin/StepanKatin/blob/main/giphy.gif))
+![](https://github.com/StepanKatin/StepanKatin/commit/e9d12f1c91cc67fc487b6362d7774cbb9ef7b7a6)
 
 <h1 align="center"> Hi, I'm Stepan </h1>
 <h2 align="center"> &#128301; Nuclear Physicist and Data Analyst &#128105;&#8205;&#128187;  </h2>
