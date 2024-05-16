@@ -8,11 +8,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/>&nbsp;
 <img src="https://pandas.pydata.org//static/img/favicon_white.ico" width="30" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://scipy.org/images/logo.svg" width="40" height="40"/>&nbsp;
 <img src="https://gitlab.com/uploads/-/system/project/avatar/14047682/simpy-logo-quad.png" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
 
