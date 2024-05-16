@@ -1,4 +1,4 @@
-<h1 align="center">![](https://github.com/StepanKatin/StepanKatin/blob/main/giphy.gif)
+![](https://github.com/StepanKatin/StepanKatin/blob/main/giphy.gif)
 
 <h1 align="center"> Hi, I'm Stepan </h1>
 <h2 align="center"> &#128301; Nuclear Physicist and Data Analyst &#128105;&#8205;&#128187;  </h2>
