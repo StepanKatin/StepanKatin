@@ -1,4 +1,4 @@
-
+<img align="center" src="https://github.com/StepanKatin/StepanKatin/blob/main/giphy.gif">
 ![](https://github.com/StepanKatin/StepanKatin/blob/main/giphy.gif)
 
 <h1 align="center"> Hi, I'm Stepan </h1>
