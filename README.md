@@ -1,4 +1,4 @@
-<img align="middle" src="https://github.com/StepanKatin/StepanKatin/blob/main/giphy.gif" alt="отцентрированное изображение" />
+
 ![](https://github.com/StepanKatin/StepanKatin/blob/main/giphy.gif)
 
 <h1 align="center"> Hi, I'm Stepan </h1>
