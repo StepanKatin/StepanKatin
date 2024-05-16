@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/StepanKatin/StepanKatin/blob/main/giphy.gif" /></h1>
 
-<h2 align="center"> Hi, I'm Stepan 	 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> </h2>
+<h2 align="center"> Hi, I'm Stepan 	&#128075; </h2>
 <h3 align="center"> &#128104;&#8205;&#128300; Nuclear Physicist and Data Analyst &#128105;&#8205;&#128187;  </h3>
 
 <div>
