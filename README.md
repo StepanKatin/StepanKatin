@@ -29,7 +29,7 @@
 
 |Project name| Description| Stack|
 |----------------|-----------------|-----|
-|[E-comerce_analysis](https://github.com/StepanKatin/e-comerce_analysis)|Feature engineering, data analysis, ML model building|**Pandas** **NumPy** **Seaborn**|
+|[E-comerce_analysis](https://github.com/StepanKatin/e-comerce_analysis)|Data analysis e-commerce shop|**Pandas** **NumPy** **Seaborn**|
 |[Recommendation system](https://github.com/IrinaLomskaya/recommendation)|Feature engineering, data analysis, ML model building|**Pandas** **Scikitlearn** **Seaborn** **FastApi** **CatBoost**|
 |[GUI App](https://github.com/IrinaLomskaya/gui_client)|Front and back development of gui application for calculating of elevation angle, initial velocity|**PyQt** **Flask**|
 |[Selenium tests](https://github.com/IrinaLomskaya/selenium_final)|Final project for stepik course "QA Automatisation"|**Python** **Selenium**|
