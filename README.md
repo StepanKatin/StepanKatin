@@ -29,7 +29,6 @@ I use mostly mathematical modeling and statistical tools for the analysis, spect
 ## :book: My projects:
 
 <h1 align="center">
-  
 |Project name| Description| Stack|
 |----------------|-----------------|-----|
 |[E-comerce_analysis](https://github.com/StepanKatin/e-comerce_analysis)|Data analysis e-commerce shop|**Pandas** **NumPy** **Seaborn**|
