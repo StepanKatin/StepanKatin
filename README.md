@@ -19,11 +19,12 @@
 </h1> </div>
 
 
-<h4 style="normal"> &#128311; I work as a Lead Engineer in nuclear physical researches. Now my work is focused on designing method of a recoil separation alpha emitters for radiopharmaceuticals. I use mostly mathematical modeling and statistical tools for the analysis, spectroscopy, doing experiments. </h4>
+<h4 style="normal"> &#128311; I work as a Lead Engineer in nuclear physical researches. Now my work is focused on designing method of a recoil separation alpha emitters for radiopharmaceuticals.
+I use mostly mathematical modeling and statistical tools for the analysis, spectroscopy, doing experiments. </h4>
 
 <h4 style="font-weight: normal"> &#128311; I like to solve interesting, difficult problems. Also I'm interested in device development, where I could upgrade my skills. I'm a participate of many scientific conferences and autor of scientific paper. </h4>
 
-<h4 style="font-weight: normal"> &#128311; In my free from work time I develop lever coffee machine, as hobby, hangout with my friends, and play computer games. </h4>
+<h4 style="font-weight: normal"> &#128311; In my free from work time I develop lever espresso machine, as hobby, hangout with my friends, and play computer games. </h4>
 
 ## :book: My projects:
 
