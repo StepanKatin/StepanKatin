@@ -30,7 +30,7 @@ I use mostly mathematical modeling and statistical tools for the analysis, spect
 
 |Project name| Description| Stack|
 |----------------|-----------------|-----|
-|[E-comerce_analysis](https://github.com/StepanKatin/e-comerce_analysis)|Data analysis e-commerce shop|**Pandas** **NumPy** **Seaborn**|
+|[Recoil_separation_Ra223](https://github.com/StepanKatin/Recoil_separation_Ra223)|223Ra electrostatic separation simulation|**Python** **Pandas** **NumPy** **Seaborn**|
 |[E-comerce_analysis](https://github.com/StepanKatin/e-comerce_analysis)|Data analysis e-commerce shop|**Pandas** **NumPy** **Seaborn**|
 [Analysis_of_game_users](https://github.com/StepanKatin/Analysis_of_game_users)|Data analysis, AB-test|**Pandas** **NumPy** **Seaborn** **Json**|
 
