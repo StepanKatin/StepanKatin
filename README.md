@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://github.com/StepanKatin/StepanKatin/blob/main/giphy.gif" /></h1>
 
 <h2 align="center"> Hi, I'm Stepan 	&#128075; </h2>
-<h3 align="center"> &#128104;&#8205;&#128300;  Python Developer & Nuclear Physicist &#128105;&#8205;&#128187;  </h3>
+<h3 align="center"> &#128105;&#8205;&#128187;  Python Developer & Nuclear Physicist  &#128104;&#8205;&#128300; </h3>
 
 <div>
 <h1 align="center">
