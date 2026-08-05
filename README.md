@@ -39,12 +39,11 @@
 
 ## 👨‍💻 About Me
 <div>
-<h1 align="center">
-* **🔷 Current Focus:** Currently, I’m working as a Senior Python Developer with a core focus on architecting production-grade AI agents and RAG pipelines for project documentation.
-* **🔷 Scientific Background:** In the past, I worked as a Lead Engineer in nuclear physics research. My work focused on designing a method for recoil separation of alpha emitters for radiopharmaceuticals. I primarily used mathematical modeling, statistical analysis tools, spectroscopy, and experimental design.
-* **🔷 Problem Solving:** I thrive on solving complex, highly challenging engineering and architectural problems. I am also deeply interested in device development where I can push my hardware-software integration skills. I am a participant in numerous scientific conferences and an author of published scientific papers.
-* **🔷 Hobbies:** In my free time, I am developing a custom lever espresso machine from scratch as a hobby. I also enjoy hanging out with friends and playing computer games.
-</h1> </div>
+<h3> * **🔷 Current Focus:** Currently, I’m working as a Senior Python Developer with a core focus on architecting production-grade AI agents and RAG pipelines for project documentation. </h3>
+<h3> * **🔷 Scientific Background:** In the past, I worked as a Lead Engineer in nuclear physics research. My work focused on designing a method for recoil separation of alpha emitters for radiopharmaceuticals. I primarily used mathematical modeling, statistical analysis tools, spectroscopy, and experimental design. </h3>
+<h3> * **🔷 Problem Solving:** I thrive on solving complex, highly challenging engineering and architectural problems. I am also deeply interested in device development where I can push my hardware-software integration skills. I am a participant in numerous scientific conferences and an author of published scientific papers. </h3>
+<h3> * **🔷 Hobbies:** In my free time, I am developing a custom lever espresso machine from scratch as a hobby. I also enjoy hanging out with friends and playing computer games. </h3>
+</div>
 ---
 
 ## :book: My Projects
