@@ -7,13 +7,13 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 🤖 AI & RAG Engineering
+#### 🤖 AI & RAG Engineering
 <div>
 <h1 align="center">
 <img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69981d0819e88e3d4dd7b917_langchain%20icon.svg" width="40" height="40"/>&nbsp; <img src="https://milvus.io/images/layout/milvus-logo.svg" width="70" height="40"/>&nbsp;
 </h1> </div>
 
-### ⚡ Backend Development
+#### ⚡ Backend Development
 <div>
 <h1 align="center">
 <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="40" height="40"/>&nbsp;
@@ -24,7 +24,7 @@
 <img src="https://messenger-assets.qualified.com/uploads/7U9HDVYzTNS1JkJ3HJxVAG8hSXkbMDvvd7cuv/1f8b82205c464f6273be7ad0bb924b7534654e93745924163a0b8ef60edea4a7.png" width="40" height="40"/>&nbsp;
 </h1> </div>
 
-### 🚀 DevOps & Infrastructure
+#### 🚀 DevOps & Infrastructure
 <div>
 <h1 align="center">
 <img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="40" height="40"/>&nbsp;
@@ -62,4 +62,4 @@ In my free time, I am developing a custom lever espresso machine from scratch as
 
 ## :fire: My Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StepanKatin)
+[My Languages stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StepanKatin)
