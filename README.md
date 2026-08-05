@@ -10,7 +10,7 @@
 ### 🤖 AI & RAG Engineering
 <div>
 <h1 align="center">
-<img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69981d0819e88e3d4dd7b917_langchain%20icon.svg" width="70" height="50"/>&nbsp; <img src="https://milvus.io/images/layout/milvus-logo.svg" width="70" height="50"/>&nbsp;
+<img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69981d0819e88e3d4dd7b917_langchain%20icon.svg" width="60" height="60"/>&nbsp; <img src="https://milvus.io/images/layout/milvus-logo.svg" width="60" height="60"/>&nbsp;
 </h1> </div>
 
 ### ⚡ Backend Development
@@ -27,23 +27,25 @@
 ### 🚀 DevOps & Infrastructure
 <div>
 <h1 align="center">
-<img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/919/919856.png" width="40" height="40"/>&nbsp;
-<img src="https://www.svgrepo.com/show/448233/kubernetes.svg" width="40" height="40"/>&nbsp;
-<img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="60" height="60"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/919/919856.png" width="60" height="60"/>&nbsp;
+<img src="https://www.svgrepo.com/show/448233/kubernetes.svg" width="60" height="60"/>&nbsp;
+<img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60"/>&nbsp;
 </h1> </div>
 <br/>
 
 ---
 
 ## 👨‍💻 About Me
-<div>
-* **🔷 Current Focus:** Currently, I’m working as a Senior Python Developer with a core focus on architecting production-grade AI agents and RAG pipelines for project documentation.
-* **🔷 Scientific Background:** In the past, I worked as a Lead Engineer in nuclear physics research. My work focused on designing a method for recoil separation of alpha emitters for radiopharmaceuticals. I primarily used mathematical modeling, statistical analysis tools, spectroscopy, and experimental design.
-* **🔷 Problem Solving:** I thrive on solving complex, highly challenging engineering and architectural problems. I am also deeply interested in device development where I can push my hardware-software integration skills. I am a participant in numerous scientific conferences and an author of published scientific papers.
-* **🔷 Hobbies:** In my free time, I am developing a custom lever espresso machine from scratch as a hobby. I also enjoy hanging out with friends and playing computer games.
-</div>
+- **🔷 Current Focus:**
+  Currently, I’m working as a Senior Python Developer with a core focus on architecting production-grade AI agents and RAG pipelines for project documentation.
+- **🔷 Scientific Background:**
+  In the past, I worked as a Lead Engineer in nuclear physics research. My work focused on designing a method for recoil separation of alpha emitters for radiopharmaceuticals. I primarily used mathematical modeling, statistical analysis tools, spectroscopy, and experimental design.
+- **🔷 Problem Solving:**
+  I thrive on solving complex, highly challenging engineering and architectural problems. I am also deeply interested in device development where I can push my hardware-software integration skills. I am a participant in numerous scientific conferences and an author of published scientific papers.
+- **🔷 Hobbies:**
+  In my free time, I am developing a custom lever espresso machine from scratch as a hobby. I also enjoy hanging out with friends and playing computer games.
 
 ---
 
