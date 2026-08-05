@@ -21,19 +21,15 @@
 <img src="https://faststream.ag2.ai/latest/assets/img/logo.svg" width="40" height="40"/>&nbsp;
 <img src="https://messenger-assets.qualified.com/uploads/7U9HDVYzTNS1JkJ3HJxVAG8hSXkbMDvvd7cuv/1f8b82205c464f6273be7ad0bb924b7534654e93745924163a0b8ef60edea4a7.png" width="40" height="40"/>&nbsp;
 <img src="https://www.rabbitmq.com/img/rabbitmq-logo-by-tanzu.svg" width="40" height="40"/>&nbsp;
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" height="40"/>&nbsp;
 </h1> </div>
 
 ### 🚀 DevOps & Infrastructure
-<img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
+<img src="https://www.docker.com/app/uploads/2026/02/Docker_Mark_660x400.png" width="40" height="40"/>&nbsp;
+<img src="https://nginx.org/img/nginx_logo.svg" width="40" height="40"/>&nbsp;
+<img src="https://kubernetes.io/_common-resources/images/flower.svg" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUhdxzhEXA4bo1TBO-iR57o3MK8L2hkBDPEGPLAgZQoHHi5h3RiQF7d0&s=10" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
-
-### 📊 Data Science & Modeling
-<img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
 
 <br/>
 
