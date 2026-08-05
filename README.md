@@ -16,32 +16,35 @@
 ### ⚡ Backend Development
 <div>
 <h1 align="center">
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="40" height="40"/>&nbsp;
-<img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="40" height="40"/>&nbsp;
-<img src="https://faststream.ag2.ai/latest/assets/img/logo.svg" width="40" height="40"/>&nbsp;
-<img src="https://messenger-assets.qualified.com/uploads/7U9HDVYzTNS1JkJ3HJxVAG8hSXkbMDvvd7cuv/1f8b82205c464f6273be7ad0bb924b7534654e93745924163a0b8ef60edea4a7.png" width="40" height="40"/>&nbsp;
-<img src="https://www.rabbitmq.com/img/rabbitmq-logo-by-tanzu.svg" width="40" height="40"/>&nbsp;
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" height="40"/>&nbsp;
+<img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="60" height="60"/>&nbsp;
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="60" height="60"/>&nbsp;
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="60" height="60"/>&nbsp;
+<img src="https://www.rabbitmq.com/img/rabbitmq-logo-by-tanzu.svg" width="60" height="60"/>&nbsp;
+<img src="https://faststream.ag2.ai/latest/assets/img/logo.svg" width="60" height="60"/>&nbsp;
+<img src="https://messenger-assets.qualified.com/uploads/7U9HDVYzTNS1JkJ3HJxVAG8hSXkbMDvvd7cuv/1f8b82205c464f6273be7ad0bb924b7534654e93745924163a0b8ef60edea4a7.png" width="60" height="60"/>&nbsp;
 </h1> </div>
 
 ### 🚀 DevOps & Infrastructure
+<div>
+<h1 align="center">
 <img src="https://www.docker.com/app/uploads/2026/02/Docker_Mark_660x400.png" width="40" height="40"/>&nbsp;
 <img src="https://nginx.org/img/nginx_logo.svg" width="40" height="40"/>&nbsp;
 <img src="https://kubernetes.io/_common-resources/images/flower.svg" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUhdxzhEXA4bo1TBO-iR57o3MK8L2hkBDPEGPLAgZQoHHi5h3RiQF7d0&s=10" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
-
+</h1> </div>
 <br/>
 
 ---
 
 ## 👨‍💻 About Me
-
+<div>
+<h1 align="center">
 * **🔷 Current Focus:** Currently, I’m working as a Senior Python Developer with a core focus on architecting production-grade AI agents and RAG pipelines for project documentation.
 * **🔷 Scientific Background:** In the past, I worked as a Lead Engineer in nuclear physics research. My work focused on designing a method for recoil separation of alpha emitters for radiopharmaceuticals. I primarily used mathematical modeling, statistical analysis tools, spectroscopy, and experimental design.
 * **🔷 Problem Solving:** I thrive on solving complex, highly challenging engineering and architectural problems. I am also deeply interested in device development where I can push my hardware-software integration skills. I am a participant in numerous scientific conferences and an author of published scientific papers.
 * **🔷 Hobbies:** In my free time, I am developing a custom lever espresso machine from scratch as a hobby. I also enjoy hanging out with friends and playing computer games.
-
+</h1> </div>
 ---
 
 ## :book: My Projects
@@ -56,22 +59,9 @@
 ---
 
 ## :fire: My Stats
-
+<div>
 <h1 align="center">
-
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StepanKatin)
-
-<!--
-**StepanKatin/StepanKatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> -->
+  
+</h1> </div>
