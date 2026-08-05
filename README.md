@@ -61,6 +61,5 @@ In my free time, I am developing a custom lever espresso machine from scratch as
 ---
 
 ## :fire: My Stats
-<div align="center">
-  <img src="https://vercel.app" alt="Stepan's Language Stats" />
-</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StepanKatin)
