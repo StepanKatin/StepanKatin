@@ -11,7 +11,7 @@
 <div>
 <h1 align="center">
 <img src="
-<img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69981d0819e88e3d4dd7b917_langchain%20icon.svg" width="40" height="40"/>&nbsp; <img src="https://milvus.io/images/layout/milvus-logo.svg" width="30" height="40"/>&nbsp;
+<img src="[LangChain_img](https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69981d0819e88e3d4dd7b917_langchain%20icon.svg)" width="40" height="40"/>&nbsp; <img src="https://milvus.io/images/layout/milvus-logo.svg" width="70" height="50"/>&nbsp;
 </h1> </div>
 
 ### ⚡ Backend Development
