@@ -27,8 +27,8 @@
 ### 🚀 DevOps & Infrastructure
 <div>
 <h1 align="center">
-<img src="https://www.docker.com/app/uploads/2026/02/Docker_Mark_660x400.png" width="40" height="40"/>&nbsp;
-<img src="https://nginx.org/img/nginx_logo.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/919/919856.png" width="40" height="40"/>&nbsp;
 <img src="https://kubernetes.io/_common-resources/images/flower.svg" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUhdxzhEXA4bo1TBO-iR57o3MK8L2hkBDPEGPLAgZQoHHi5h3RiQF7d0&s=10" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
@@ -39,11 +39,12 @@
 
 ## 👨‍💻 About Me
 <div>
-<h3> * **🔷 Current Focus:** Currently, I’m working as a Senior Python Developer with a core focus on architecting production-grade AI agents and RAG pipelines for project documentation. </h3>
-<h3> * **🔷 Scientific Background:** In the past, I worked as a Lead Engineer in nuclear physics research. My work focused on designing a method for recoil separation of alpha emitters for radiopharmaceuticals. I primarily used mathematical modeling, statistical analysis tools, spectroscopy, and experimental design. </h3>
-<h3> * **🔷 Problem Solving:** I thrive on solving complex, highly challenging engineering and architectural problems. I am also deeply interested in device development where I can push my hardware-software integration skills. I am a participant in numerous scientific conferences and an author of published scientific papers. </h3>
-<h3> * **🔷 Hobbies:** In my free time, I am developing a custom lever espresso machine from scratch as a hobby. I also enjoy hanging out with friends and playing computer games. </h3>
+* **🔷 Current Focus:** Currently, I’m working as a Senior Python Developer with a core focus on architecting production-grade AI agents and RAG pipelines for project documentation.
+* **🔷 Scientific Background:** In the past, I worked as a Lead Engineer in nuclear physics research. My work focused on designing a method for recoil separation of alpha emitters for radiopharmaceuticals. I primarily used mathematical modeling, statistical analysis tools, spectroscopy, and experimental design.
+* **🔷 Problem Solving:** I thrive on solving complex, highly challenging engineering and architectural problems. I am also deeply interested in device development where I can push my hardware-software integration skills. I am a participant in numerous scientific conferences and an author of published scientific papers.
+* **🔷 Hobbies:** In my free time, I am developing a custom lever espresso machine from scratch as a hobby. I also enjoy hanging out with friends and playing computer games.
 </div>
+
 ---
 
 ## :book: My Projects
