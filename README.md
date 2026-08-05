@@ -62,4 +62,4 @@ In my free time, I am developing a custom lever espresso machine from scratch as
 
 ## :fire: My Stats
 
-[My Languages stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StepanKatin)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StepanKatin)
