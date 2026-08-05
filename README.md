@@ -29,8 +29,8 @@
 <h1 align="center">
 <img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/919/919856.png" width="40" height="40"/>&nbsp;
-<img src="https://kubernetes.io/_common-resources/images/flower.svg" width="40" height="40"/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUhdxzhEXA4bo1TBO-iR57o3MK8L2hkBDPEGPLAgZQoHHi5h3RiQF7d0&s=10" width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/448233/kubernetes.svg" width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
 </h1> </div>
 <br/>
