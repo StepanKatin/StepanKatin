@@ -18,9 +18,9 @@
 <h1 align="center">
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="40" height="40"/>&nbsp;
 <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
+<img src="https://faststream.ag2.ai/latest/assets/img/logo.svg" width="40" height="40"/>&nbsp;
+<img src="https://messenger-assets.qualified.com/uploads/7U9HDVYzTNS1JkJ3HJxVAG8hSXkbMDvvd7cuv/1f8b82205c464f6273be7ad0bb924b7534654e93745924163a0b8ef60edea4a7.png" width="40" height="40"/>&nbsp;
+<img src="https://www.rabbitmq.com/img/rabbitmq-logo-by-tanzu.svg" width="40" height="40"/>&nbsp;
 </h1> </div>
 
 ### 🚀 DevOps & Infrastructure
