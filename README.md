@@ -10,15 +10,18 @@
 ### 🤖 AI & RAG Engineering
 <div>
 <h1 align="center">
-<img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69981d0819e88e3d4dd7b917_langchain%20icon.svg" width="40" height="40"/>&nbsp; <img src="https://milvus.io/images/layout/milvus-logo.svg" width="70" height="50"/>&nbsp;
+<img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69981d0819e88e3d4dd7b917_langchain%20icon.svg" width="70" height="50"/>&nbsp; <img src="https://milvus.io/images/layout/milvus-logo.svg" width="70" height="50"/>&nbsp;
 </h1> </div>
 
 ### ⚡ Backend Development
+<div>
+<h1 align="center">
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="40" height="40"/>&nbsp;
+<img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="40" height="40"/>&nbsp;
 <img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
 <img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
 <img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
-<img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
+</h1> </div>
 
 ### 🚀 DevOps & Infrastructure
 <img src="https://jsdelivr.net" width="40" height="40"/>&nbsp;
@@ -59,47 +62,8 @@
 ## :fire: My Stats
 
 <h1 align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StepanKatin" alt="Stepan's GitHub Stats" />
-</h1>
-
-<!-- <h1 align="center"> <img src="https://github.com/StepanKatin/StepanKatin/blob/main/giphy.gif" /></h1>
-
-<h2 align="center"> Hi, I'm Stepan 	&#128075; </h2>
-<h3 align="center"> &#128105;&#8205;&#128187;  Python Developer & Nuclear Physicist  &#128104;&#8205;&#128300; </h3>
-
-<div>
-<h1 align="center">
-<img src="
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/>&nbsp; <img src="https://pandas.pydata.org//static/img/favicon_white.ico" width="30" height="40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" width="40" height="40"/>&nbsp; <img src="https://scipy.org/images/logo.svg" width="40" height="40"/>&nbsp; <img src="https://gitlab.com/uploads/-/system/project/avatar/14047682/simpy-logo-quad.png" width="40" height="40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
-</h1> </div>
-
-<h4 style="normal"> &#128311; Currently, I’m working as a Senior Python Developer with a core focus on architecting an AI agent for project documentation. </h4>
-<h4 style="normal"> &#128311; In past I worked as a Lead Engineer in nuclear physical researches, my work was focused on designing method of a recoil separation alpha emitters for radiopharmaceuticals.
-I use mostly mathematical modeling and statistical tools for the analysis, spectroscopy, doing experiments. </h4>
-
-<h4 style="font-weight: normal"> &#128311; I like to solve interesting, difficult problems. Also I'm interested in device development, where I could upgrade my skills. I'm a participate of many scientific conferences and autor of scientific paper. </h4>
-
-<h4 style="font-weight: normal"> &#128311; In my free from work time I develop lever espresso machine, as hobby, hangout with my friends, and play computer games. </h4>
-
-## :book: My projects:
-
-|Project name| Description| Stack|
-|----------------|-----------------|-----|
-|[Payment service MVP with RabbitMQ Outbox pattern](https://github.com/StepanKatin/payment_service)|MVP payment service based on FastAPI and FastStream with Outbox pattern|**FastApi** **FastStream** **RabbitMQ**|
-|[Work-space service for you and your team](https://github.com/StepanKatin/GanbaruWorkSpace)|Work-space with JWT-auth and Nextcloud docker image|**Python** **FastAPI** **Reddis** **SQLAlchemy**|
-|[App for radioactive calculations](https://github.com/StepanKatin/Calc_activity)|Radioactive calculator for Windows/Linux|**Python** **PySide6** **Pandas** **NumPy**|
-|[Recoil_separation_Ra223](https://github.com/StepanKatin/Recoil_separation_Ra223)|223Ra electrostatic separation simulation|**Python** **Pandas** **NumPy** **Seaborn**|
-
-
-
-</div>
-
-## :fire: My Stats :
-
-<h1 align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StepanKatin)
-
 
 <!--
 **StepanKatin/StepanKatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
