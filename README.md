@@ -1,4 +1,4 @@
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/cbad5c60-351e-4970-a800-8445b1b8e74f" /><h1 align="center"> <img src="https://github.com/StepanKatin/StepanKatin/blob/main/giphy.gif" /></h1>
+<h1 align="center"> <img src="https://github.com/StepanKatin/StepanKatin/blob/main/giphy.gif" /></h1>
 
 <h2 align="center"> Hi, I'm Stepan 	👋 </h2>
 <h3 align="center"> 👩‍💻 Senior Python Developer & Nuclear Physicist 👨‍🔬 </h3>
@@ -10,7 +10,7 @@
 ### 🤖 AI & RAG Engineering
 <div>
 <h1 align="center">
-<img src="[LangChain_img](https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69981d0819e88e3d4dd7b917_langchain%20icon.svg)" width="40" height="40"/>&nbsp; <img src="https://milvus.io/images/layout/milvus-logo.svg" width="70" height="50"/>&nbsp;
+<img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69981d0819e88e3d4dd7b917_langchain%20icon.svg" width="40" height="40"/>&nbsp; <img src="https://milvus.io/images/layout/milvus-logo.svg" width="70" height="50"/>&nbsp;
 </h1> </div>
 
 ### ⚡ Backend Development
